@@ -103,6 +103,10 @@
     color: var(--primary);
 }
 
+.qrcode img{
+    width: 50vh;
+}
+
 .navbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
