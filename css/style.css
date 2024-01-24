@@ -67,7 +67,14 @@
     height: 48px;
 }
 
+.block-qr{
+    background-color: #51cc82;
+}
 
+.block-qr h1{
+    color: #fff;
+    text-shadow: 35px rgb(0,0,0,0.5);
+}
 
 .btn-square,
 .btn-sm-square,
